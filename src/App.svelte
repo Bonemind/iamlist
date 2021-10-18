@@ -44,7 +44,6 @@
 			}
 		});
 		filteredActions = filterHolder;
-		console.log(filteredActions);
 	}
 
 	// Copy the current list of displayed actions
